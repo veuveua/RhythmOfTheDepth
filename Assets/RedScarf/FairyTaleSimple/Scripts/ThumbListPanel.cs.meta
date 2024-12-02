@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 970584159413c7a4b87a1f646db9bba9
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159524
+  packageName: Fairy Tale Simple
+  packageVersion: 1.0
+  assetPath: Assets/RedScarf/FairyTaleSimple/Scripts/ThumbListPanel.cs
+  uploadId: 345630

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1ceb508f0dbe15e4ca7e37453843ba3f
+timeCreated: 1576032649
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159524
+  packageName: Fairy Tale Simple
+  packageVersion: 1.0
+  assetPath: Assets/RedScarf/FairyTaleSimple/Prefab/ThumbItem.prefab
+  uploadId: 345630
